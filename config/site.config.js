@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
-  title: "animedtup",
+  title: "TKArruti",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/Lo-Rescatable',
@@ -50,7 +50,7 @@ module.exports = {
   links: [
     {
       name: 'Discord',
-      link: 'https://discord.gg/H96mjnKNxh',
+      link: '#',
     },
   ],
 
